@@ -1,4 +1,5 @@
-# SnowMonkey
+# SnowMonkey (NANAS)
+
 How To Buy NANAS
 
 Visit Trader Joe (https://traderjoexyz.com/).
@@ -42,10 +43,11 @@ There are no fees payable for Snow Monkey Trees.
 
 *****
 
-Snow Monkey Team Tokens
+Snow Monkey Team and Marketing Tokens
 
-The Snow Monkey team has no NANAS tokens. 
-It is a fair, stealth launch. 
+The Snow Monkey team is holding back 15% of the supply for marketing purposes. 
+Snow Monkey is a fair, stealth launch.
+There was NO presale. 
 The team provided the initial liquidity, which is locked for six months from launch.
 
 Snow Monkey (NANAS) Supply is 175,000,000 tokens.
@@ -56,7 +58,9 @@ NANAS Taxes
 
 4% Buy/ 4% Sell
 
-Half goes directly into liquidity. Half goes to marketing.
+Half goes directly into liquidity. Half goes to ongoing marketing efforts.
+
+Please adjust your slippage accordingly when buying or selling.
 
 *****
 
